@@ -21,9 +21,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
-        <meta name="description" content="Home of my portfolio" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>It&apos;s Jagnezi</title>
       </Head>
       <div className="border-solid border-2 border-zinc-300 dark:border-white rounded-xl m-6 p-4 h-[calc(100vh-2.5rem)] flex flex-col justify-between items-center">
         <header>
